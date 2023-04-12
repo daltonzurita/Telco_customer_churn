@@ -18,8 +18,7 @@ Some of the features in the dataset include:
 
 In this project, various machine learning models are used and compared to predict customer churn, including:
 
-- Logistic Regression
-- Decision Tree Classifier
+- XGBoost
 - Random Forest Classifier
 - Support Vector Machine
 
